@@ -12,7 +12,7 @@ Neste projeto, analisamos os dados da lista de fugas da prisão com helicóptero
 - Qual foi o país com mais tentativas de fuga bem-sucedidas?
 - Quais foram os fugitivos que obtiveram sucesso mais de uma vez?
 
-## Conclusão:
+## Conclusão
 
 Os resultados mostraram que:
 
