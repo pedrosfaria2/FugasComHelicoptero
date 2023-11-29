@@ -1,6 +1,6 @@
 # :helicopter: Fugas da prisão com helicóptero! :helicopter:
 ## Motivação
-Esse é meu primeiro uso do Jupyter Notebook para desenvolver um projeto. Aqui estudaremos como buscar informação em uma página, filtrar, manipular e imprimir resultados para respondermos alguns questionamentos acerca 
+Esse é meu primeiro uso do Jupyter Notebook para desenvolver um projeto. Aqui estudaremos como buscar informação em uma página, filtrar, manipular e imprimir resultados para respondermos alguns questionamentos acerca das informações disponíveis sobre fugas da prisão com uso de helicóptero ao redor do planeta.
 
 ## Sobre o projeto
 
